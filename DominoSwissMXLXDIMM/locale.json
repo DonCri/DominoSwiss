@@ -1,0 +1,18 @@
+{
+  "translations": {
+    "de": {
+      "LockLevel ": "Sperrlevel ",
+      "Off": "Aus",
+      "On": "An",
+      "LastValue": "Letzter Wert",
+      "Save": "Speichern",
+      "Restore": "Abrufen",
+      "SendingOnLockLevel": "Priorität",
+      "Saving": "Favoriteneinstellung",
+      "Switch": "Schalter",
+      "SavedValue": "Wert Favoritenspeicher",
+      "Intensity": "Intensität",
+      "Supplement" : "Zusatz"
+    }
+  }
+}

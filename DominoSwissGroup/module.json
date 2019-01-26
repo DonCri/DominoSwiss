@@ -1,0 +1,15 @@
+{
+	"id": "{7F5C8432-CEAC-45A7-BF96-4BBC3CF04B57}",
+	"name": "DominoSwissGroup",
+	"type": 3,
+	"vendor": "BRELAG",
+	"aliases": 
+	[
+		"DominoSwiss Gruppe",
+		"DominoSwiss Fernbedienung"
+	],
+	"parentRequirements": ["{C24CDA30-82EE-46E2-BAA0-13A088ACB5DB}"],
+	"childRequirements": [],
+	"implemented": ["{BA70E3E8-68D2-4E3B-8C64-BBB86F188473}"],
+	"prefix": "BRELAG"
+}

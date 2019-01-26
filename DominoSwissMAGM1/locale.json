@@ -1,0 +1,14 @@
+{
+  "translations": {
+    "de": {
+      "Open": "Geöffnet",
+      "Closed": "Geschlossen",
+      "Battery": "Batterie",
+      "BatteryLow": "Batterie Niedrig",
+      "Event": "Ereignis",
+      "No": "Nein",
+      "Lifesign": "Lebenszeichen",
+      "Nothing": "Kein"
+    }
+  }
+}

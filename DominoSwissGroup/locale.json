@@ -1,0 +1,25 @@
+{
+  "translations": {
+    "de": {
+      "LockLevel ": "Sperrlevel ",
+      "Off": "Aus",
+      "On": "An",
+      "Save": "Speichern",
+      "Intensity": "Intensität",
+      "Restore": "Abrufen",
+      "SendingOnLockLevel": "Priorität",
+      "Saving": "Favoriteneinstellung",
+      "Switch": "Schalter",
+      "UP": "AUF",
+      "DOWN": "AB",
+      "Toggle": "Umschalten",
+      "GroupOrder": "Gruppenbefehl",
+      "InstanceID": "InstanzID",
+      "Awning": "Markise",
+      "SavedValue": "Wert Favoritenspeicher",
+      "Show toggle": "Zeige Umschalten an",
+      "Show intensity": "Zeige Intensität an",
+      "Supplement" : "Zusatz"
+    }
+  }
+}
